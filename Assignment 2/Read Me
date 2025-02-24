@@ -1,22 +1,22 @@
-*This file serves as a template for a README.md for a project.*
+Association between Restlessness and Increased risk of Marijuana use in California adults
 
-*Copy-paste below the line and make edits to fit your own project.*
+Project description: 
+This was a group project that I completed for my Reproducibility in Epi Research class. My group member and I used CHIS 2020 data to assess whether experiencing restlessness in the past 30 days 
+increased the risk of marijuana use among California adults, who do have a prior history of marijuana use within the past month. 
 
----------
 
-## Project title
-Project description: A little info about your project and/ or overview that explains **what** the project is about. You can also explain **why** the project exists. You can mention this is for coursework too. 
-
-## Features
 What makes your project stand out?
-
-## Acknowledgments
-Give proper credit to resources you used in this project. This could be a link to any repo which inspired you to build this project, any blogposts, or links to people who contrbuted in this project. 
-
-## Anything else that seems useful
+There is plenty of research completed on the role that other psychological stressors play on risk of marijuana use; however, few have looked the association between experiencing restlessness
+and risk of marijuana use within the California population. Restlessness consists of feeling uneasy or inability to concentrate and/or relax, which we hypothesize may lead to individuals 
+having a higher risk of marijuana use. 
 
 
-## Created by
-* [@jyixzhou](https://github.com/jyixzhou)
+Acknowledgments
+I want to acknowledge my group member, Tim, for being a great collaborator on this project. 
 
-*E-MAIL/PHONE*
+
+Created by
+[@YoditGoshu](https://github.com/YoditGoshu)
+
+Contact info
+Email: yoditgoshu@g.ucla.edu
