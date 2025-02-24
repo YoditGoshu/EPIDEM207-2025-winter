@@ -1,5 +1,5 @@
 /*************************************************************
-Name: Yodit Goshu and Tim Nguyen
+Name: 
 Date: February 3, 2025
 Topic: EPI 207 Group Project
 Objective: To reproduce data
