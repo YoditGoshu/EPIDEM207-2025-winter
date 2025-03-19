@@ -1,1 +1,3 @@
-we
+UCLA EPI 207: Reproducibility in EPI Research
+
+This is assignment 4 where we received feedback from other groups on how reproducible our data was. For the most part other groups were able to reproduce our results; however, many issues came from variable specification and use of sample weights. Therefore, my group member and I ensured to be explicit about the variables we were using in our data and the sample weights and variance estimators. I have attached my updated code that includes specifying levels for mariajuana use and more. We hope these changes will aid in helping our data become more reproducible. 
